@@ -1,0 +1,51 @@
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\appsettings.json
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Code First Ejemplo.staticwebassets.runtime.json
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Code First Ejemplo.exe
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Code First Ejemplo.deps.json
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Code First Ejemplo.runtimeconfig.json
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Code First Ejemplo.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Code First Ejemplo.pdb
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Npgsql.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\DAL.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\bin\Debug\net6.0\DAL.pdb
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.csproj.AssemblyReference.cache
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.AssemblyInfoInputs.cache
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.AssemblyInfo.cs
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.RazorAssemblyInfo.cache
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.RazorAssemblyInfo.cs
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\scopedcss\bundle\Code First Ejemplo.styles.css
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\scopedcss\projectbundle\Code First Ejemplo.bundle.scp.css
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.csproj.CopyComplete
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\refint\Code First Ejemplo.dll
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.pdb
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\Code First Ejemplo.genruntimeconfig.cache
+C:\Users\csi20-iiglhez\source\repos\Code First Ejemplo\Code First Ejemplo\obj\Debug\net6.0\ref\Code First Ejemplo.dll
